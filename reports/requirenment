@@ -1,0 +1,28 @@
+# requirements.txt — DICE-FER project environment
+
+# Core Deep Learning
+torch
+torchvision
+torchaudio
+
+# Face Detection & Preprocessing
+facenet-pytorch
+opencv-python
+Pillow
+
+# Data Handling
+numpy
+pandas
+
+# Training Utilities
+tqdm
+tensorboard
+
+# Evaluation & Analysis
+scikit-learn
+matplotlib
+seaborn
+
+# Optional (experiment tracking + augmentation)
+wandb
+albumentations
