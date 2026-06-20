@@ -1,6 +1,6 @@
 ______EE656 Project______
 
-TOPIC :- TBD
+TOPIC :- Decoupling Identity Confounders for Enhanced Facial Expression Recognition: An Information-Theoretic Approach
 
 PROGRESS :- 
 1. Report                 ✖️
