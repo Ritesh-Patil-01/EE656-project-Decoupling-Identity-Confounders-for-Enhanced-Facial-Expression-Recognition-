@@ -1,0 +1,10 @@
+# # Run this command one by one not at same time 
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Then run the file run_dice_fer.py
+python run_dice_fer.py
+ 
+# for abalation run 
+ python run_dice_fer.py --mode ablation
